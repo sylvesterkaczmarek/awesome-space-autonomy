@@ -21,7 +21,6 @@ Maintained by [Sylvester Kaczmarek](https://github.com/sylvesterkaczmarek).
 - [Simulation, verification, test, and benchmarks](#simulation-verification-test-and-benchmarks)
 - [Standards and engineering guidance](#standards-and-engineering-guidance)
 - [Related collections](#related-collections)
-- [Contributing](#contributing)
 - [Cite this list](#cite-this-list)
 
 ## Flight heritage and current demonstrations
@@ -109,10 +108,10 @@ Maintained by [Sylvester Kaczmarek](https://github.com/sylvesterkaczmarek).
 
 - [Space Robotics Bench](https://github.com/AndrejOrsula/space_robotics_bench) - Simulation benchmark for robot learning and autonomy in orbital and planetary robotics scenarios.
 - [NASA Astrobee](https://www.nasa.gov/astrobee/) - ISS free-flying robotic system for autonomous navigation, inspection, manipulation, and guest-science experiments.
-- [ISAAC project](https://www.nasa.gov/astrobee/isaac/) - NASA project for autonomous robotic caretaking, inspection, and response in space habitats and infrastructure.
+- [ISAAC project results](https://ntrs.nasa.gov/citations/20250003945) - NASA results from autonomous spacecraft-caretaking technology demonstrated in simulation, ground testing, and ISS Astrobee activities.
 - [CADRE cooperative rovers](https://www.jpl.nasa.gov/press-kits/cadre/mission/) - Mission architecture for multiple autonomous lunar rovers cooperating without continuous ground control.
 - [NASA advanced rover autonomy testing](https://www.nasa.gov/solar-system/moon/nasa-testing-advanced-capabilities-for-moon-mars-rovers/) - 2026 testing of autonomy technologies for rover navigation and science in steep, difficult planetary terrain.
-- [JPL planetary robotics](https://robotics.jpl.nasa.gov/what-we-do/applications/planetary-robotics/) - JPL portfolio of mobility, perception, navigation, and autonomy technologies for planetary surface systems.
+- [NeBula Autonomy Suite](https://robotics.jpl.nasa.gov/how-we-do-it/systems/nebula-autonomy-suite/) - JPL multi-robot autonomy software for resilient navigation, mapping, risk-aware decisions, and exploration under uncertainty.
 
 ## Simulation, verification, test, and benchmarks
 
