@@ -116,7 +116,7 @@ Maintained by [Sylvester Kaczmarek](https://github.com/sylvesterkaczmarek).
 - [NASA Astrobee](https://www.nasa.gov/astrobee/) - ISS free-flying robotic system for autonomous navigation, inspection, manipulation, and guest-science experiments.
 - [Ingenuity autonomous flight control](https://science.nasa.gov/blog/what-were-learning-about-ingenuitys-flight-control-and-aerodynamic-performance/) - NASA account of the onboard estimation and flight-control algorithms that let the Mars helicopter execute flights autonomously after receiving high-level instructions from Earth.
 - [ISAAC project results](https://ntrs.nasa.gov/citations/20250003945) - NASA results from autonomous spacecraft-caretaking technology demonstrated in simulation, ground testing, and ISS Astrobee activities.
-- [CADRE cooperative rovers](https://www.jpl.nasa.gov/press-kits/cadre/mission/) - Mission architecture for multiple autonomous lunar rovers cooperating without continuous ground control.
+- [CADRE cooperative rovers](https://www.nasa.gov/missions/tech-demonstration/cadre/) - Mission architecture for multiple autonomous lunar rovers cooperating without continuous ground control.
 - [NASA advanced rover autonomy testing](https://www.nasa.gov/solar-system/moon/nasa-testing-advanced-capabilities-for-moon-mars-rovers/) - 2026 testing of autonomy technologies for rover navigation and science in steep, difficult planetary terrain.
 - [NeBula Autonomy Suite](https://robotics.jpl.nasa.gov/how-we-do-it/systems/nebula-autonomy-suite/) - JPL multi-robot autonomy software for resilient navigation, mapping, risk-aware decisions, and exploration under uncertainty.
 
