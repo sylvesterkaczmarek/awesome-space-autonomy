@@ -30,18 +30,21 @@ Maintained by [Sylvester Kaczmarek](https://github.com/sylvesterkaczmarek).
 - [Deep Space 1 Remote Agent](https://www.jpl.nasa.gov/nmp/ds1/tech/autora.html) - First flight demonstration of onboard AI planning, execution, and fault recovery for a deep-space spacecraft.
 - [Deep Space 1 AutoNav](https://www.jpl.nasa.gov/nmp/ds1/tech/autonav.html) - Pioneering autonomous optical navigation that let a spacecraft estimate its trajectory and command its own maneuvers.
 - [Autonomous Sciencecraft Experiment on EO-1](https://www.jpl.nasa.gov/missions/autonomous-sciencecraft-experiment-ase/) - Flight demonstration of onboard science analysis, planning, and retasking for Earth observation.
+- [Proba-1](https://www.esa.int/Applications/Observing_the_Earth/Proba-1_overview) - ESA's Project for On-Board Autonomy, demonstrating autonomous GNC, onboard scheduling, payload and resource management, and reduced dependence on ground operations since 2001.
 - [AEGIS](https://ai.jpl.nasa.gov/public/projects/aegis/) - Flight-proven autonomous target selection for Mars rovers, enabling onboard prioritization of scientifically useful observations.
 - [Mars 2020 Terrain-Relative Navigation](https://www-robotics.jpl.nasa.gov/what-we-do/flight-projects/mars-2020-rover/terrain-relative-navigation/) - Flight-proven vision-based localization and hazard-aware landing-site selection used by Perseverance.
 - [DART SMART Nav](https://www.nasa.gov/solar-system/smart-nav-giving-spacecraft-the-power-to-guide-themselves/) - Autonomous terminal guidance that identified Dimorphos and steered DART to impact without ground intervention.
+- [CAPSTONE](https://www.nasa.gov/mission/capstone/) - Cislunar technology demonstration that validated autonomous navigation using peer-to-peer ranging with NASA's Lunar Reconnaissance Orbiter.
 - [Proba-3](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3) - ESA formation-flying mission demonstrating autonomous millimetre-class relative positioning between two spacecraft.
-- [Hera](https://www.esa.int/hera) - ESA planetary-defense mission using autonomous navigation for close operations around the Didymos binary asteroid system.
+- [Hera](https://www.esa.int/Space_Safety/Hera) - ESA planetary-defense mission designed to use autonomous navigation for close operations around the Didymos binary asteroid system.
 - [SLIM](https://global.jaxa.jp/projects/sas/slim/) - JAXA precision lunar-landing mission demonstrating image-based navigation, autonomous hazard response, and pinpoint landing technologies.
 - [Hayabusa autonomous navigation](https://global.jaxa.jp/article/special/hayabusa/sawai_e.html) - JAXA account of target-marker-based autonomous navigation and landing operations at asteroid Itokawa.
 - [SpaDeX](https://www.isro.gov.in/mission_SpaDeX.html) - ISRO technology demonstrator for autonomous rendezvous, docking, and formation operations between small spacecraft.
 - [Starling](https://www.nasa.gov/mission/starling/) - NASA CubeSat swarm mission demonstrating autonomous navigation, coordination, and distributed decision-making.
 - [OPS-SAT](https://esoc.esa.int/content/ops-sat) - ESA in-orbit experimentation platform used to validate onboard AI, autonomy, and advanced operations concepts.
+- [Φsat-1](https://www.esa.int/Applications/Observing_the_Earth/Ph-sat/Artificial_Intelligence_for_Earth_observation) - First AI carried on a European Earth-observation mission, filtering cloud-covered imagery onboard before downlink.
 - [Φsat-2](https://www.esa.int/Applications/Observing_the_Earth/Phsat-2) - ESA Earth-observation mission running multiple AI applications onboard to filter, analyze, and prioritize imagery.
-- [ASTERIA extended mission](https://www.jpl.nasa.gov/missions/arcsecond-space-telescope-enabling-research-in-astrophysics-extended/) - CubeSat mission that flight-tested autonomous navigation, scheduling, and fault-diagnosis technologies.
+- [ASTERIA extended mission](https://www.jpl.nasa.gov/missions/arcsecond-space-telescope-enabling-research-in-astrophysics-extended/) - CubeSat mission that flight-tested autonomous optical navigation and onboard planning and execution, while maturing model-based fault diagnosis in its ground testbed.
 
 ## Flight software and autonomy frameworks
 
@@ -71,6 +74,7 @@ Maintained by [Sylvester Kaczmarek](https://github.com/sylvesterkaczmarek).
 - [JPL Landing autonomy research](https://robotics.jpl.nasa.gov/what-we-do/applications/landing/) - JPL research on terrain-relative navigation, hazard detection and avoidance, and pinpoint planetary landing.
 - [Raven](https://www.nasa.gov/isam/raven/) - ISS technology demonstration of autonomous relative navigation using visible, infrared, lidar, and onboard pose estimation.
 - [NASA Relative Navigation System](https://www.nasa.gov/isam/relative-navigation-system/) - Autonomous real-time relative-navigation architecture for rendezvous and proximity operations with client spacecraft.
+- [OSIRIS-REx Natural Feature Tracking](https://www.nasa.gov/missions/bennus-boulders-shine-as-beacons-for-nasas-osiris-rex/) - Flight-proven optical navigation that matched onboard imagery to asteroid landmarks and supported autonomous hazard-aware targeting during sample collection at Bennu.
 - [Hera self-driving navigation](https://www.esa.int/Space_Safety/Hera/Hera_asteroid_mission_tested_self-driving_technique_at_Mars) - In-flight test of autonomous feature tracking and optical navigation later used for asteroid proximity operations.
 - [Perseverance autonomous mobility](https://www-robotics.jpl.nasa.gov/what-we-do/flight-projects/mars-2020-rover/m2020mobility/) - Mars 2020 mobility system combining visual odometry, hazard assessment, and autonomous route execution.
 - [Hayabusa2 navigation instruments](https://global.jaxa.jp/projects/sas/hayabusa2/instruments.html) - JAXA navigation and target-marker systems supporting autonomous asteroid approach, descent, and sampling.
@@ -85,7 +89,7 @@ Maintained by [Sylvester Kaczmarek](https://github.com/sylvesterkaczmarek).
 - [Fault Management Architectures and Software Assurance](https://ntrs.nasa.gov/citations/20150005781) - NASA work connecting spacecraft fault-management architecture choices with software-assurance challenges.
 - [cFS Health and Safety](https://github.com/nasa/HS) - cFS application for application monitoring, event response, watchdog behavior, and processor reset management.
 - [cFS Limit Checker](https://github.com/nasa/LC) - cFS application that evaluates telemetry limits and can trigger onboard command responses to violations.
-- [ASTERIA autonomous fault diagnosis](https://ai.jpl.nasa.gov/public/projects/asteria/) - JPL small-spacecraft autonomy work including onboard fault diagnosis and autonomous mission execution.
+- [ASTERIA autonomy experiments](https://ai.jpl.nasa.gov/public/projects/asteria/) - JPL work combining flight-tested MEXEC planning and execution with testbed-based model-driven fault diagnosis for more robust spacecraft operations.
 
 ## Onboard AI and autonomous science
 
@@ -110,6 +114,7 @@ Maintained by [Sylvester Kaczmarek](https://github.com/sylvesterkaczmarek).
 
 - [Space Robotics Bench](https://github.com/AndrejOrsula/space_robotics_bench) - Simulation benchmark for robot learning and autonomy in orbital and planetary robotics scenarios.
 - [NASA Astrobee](https://www.nasa.gov/astrobee/) - ISS free-flying robotic system for autonomous navigation, inspection, manipulation, and guest-science experiments.
+- [Ingenuity autonomous flight control](https://science.nasa.gov/blog/what-were-learning-about-ingenuitys-flight-control-and-aerodynamic-performance/) - NASA account of the onboard estimation and flight-control algorithms that let the Mars helicopter execute flights autonomously after receiving high-level instructions from Earth.
 - [ISAAC project results](https://ntrs.nasa.gov/citations/20250003945) - NASA results from autonomous spacecraft-caretaking technology demonstrated in simulation, ground testing, and ISS Astrobee activities.
 - [CADRE cooperative rovers](https://www.jpl.nasa.gov/press-kits/cadre/mission/) - Mission architecture for multiple autonomous lunar rovers cooperating without continuous ground control.
 - [NASA advanced rover autonomy testing](https://www.nasa.gov/solar-system/moon/nasa-testing-advanced-capabilities-for-moon-mars-rovers/) - 2026 testing of autonomy technologies for rover navigation and science in steep, difficult planetary terrain.
@@ -124,7 +129,9 @@ Maintained by [Sylvester Kaczmarek](https://github.com/sylvesterkaczmarek).
 - [Trick](https://github.com/nasa/trick) - NASA simulation framework used to build high-fidelity real-time and faster-than-real-time engineering simulations.
 - [JEOD](https://github.com/nasa/jeod) - NASA dynamics models for spacecraft trajectory, environment, and rigid-body simulation.
 - [GMAT](https://github.com/nasa/GMAT) - NASA mission-design and trajectory-analysis system useful for validating autonomous navigation and maneuver concepts.
-- [PLEXIL-V](https://github.com/nasa/PLEXIL5) - Verification-oriented PLEXIL environment for analysis of autonomous plans and execution behavior.
+- [PLEXIL-V](https://github.com/nasa/PLEXIL-V) - Verification-oriented PLEXIL environment for analysis of autonomous plans and execution behavior.
+- [Ogma](https://github.com/nasa/ogma) - NASA tool for generating runtime monitors and integration code for cFS, F Prime, and ROS-based flight and robotics applications.
+- [Stanford spacecraft vision datasets](https://slab.stanford.edu/projects/datasets) - SPEED, SPEED+, and SHIRT datasets for machine-learning-based noncooperative spacecraft pose estimation and tracking, including synthetic and hardware-in-the-loop domains.
 - [cFS Test Framework](https://github.com/nasa/CTF) - NASA test framework for cFS-based flight software and mission applications.
 - [Guidance and Control Spacecraft Autonomy Testbed](https://www.jpl.nasa.gov/site/research/research-community/laboratories-facilities/guidance-and-control-spacecraft-autonomy-testbed/) - JPL laboratory for hardware-in-the-loop validation of spacecraft GNC and autonomy algorithms.
 
@@ -134,7 +141,7 @@ Maintained by [Sylvester Kaczmarek](https://github.com/sylvesterkaczmarek).
 - [ECSS-Q-ST-80C Rev.2](https://ecss.nl/standard/ecss-q-st-80c-rev-2-software-product-assurance-30-april-2025/) - Current ECSS software product assurance requirements for space systems and supporting software.
 - [NASA-STD-8739.8B](https://standards.nasa.gov/standard/NASA/NASA-STD-87398) - NASA software assurance, software safety, and IV&V standard for mission software.
 - [NASA Software Engineering Handbook](https://standards.nasa.gov/node/182) - NASA-HDBK-2203 guidance for implementing software engineering and assurance requirements.
-- [CCSDS Spacecraft Onboard Interface Services](https://ccsds.org/publications/sls/) - Standards area defining reusable onboard services and interfaces for spacecraft flight software.
+- [CCSDS Spacecraft Onboard Interface Services](https://ccsds.org/publications/sois/) - Standards area defining reusable onboard services and interfaces that improve flight-software portability and interoperability with spacecraft hardware.
 - [CCSDS Applications Support Services](https://ccsds.org/publications/allpubs/entry/3211/) - CCSDS working group defining common services exposed to onboard software applications.
 - [NASA Systems Engineering Handbook appendix](https://www.nasa.gov/reference/system-engineering-handbook-appendix/) - NASA systems-engineering reference defining fault management and related operational engineering concepts.
 
