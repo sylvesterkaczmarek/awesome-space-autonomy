@@ -1,5 +1,7 @@
 # Awesome Space Autonomy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![Awesome Space Autonomy](assets/social/github-social-card-awesome-space-autonomy.png)
+
 A curated list of research, flight demonstrations, software, tools, benchmarks, and engineering guidance for spacecraft and space robots that can sense, decide, plan, navigate, recover, and cooperate with reduced dependence on Earth.
 
 The focus is operational autonomy in the space segment: onboard decision-making, planning and execution, autonomous navigation and GNC, fault management, onboard AI and science, distributed spacecraft, and robotic exploration. General astrodynamics, ground systems, and space software are included only when they directly enable autonomy development or assurance.
