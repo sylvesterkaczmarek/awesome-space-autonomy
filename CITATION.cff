@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or adapt this curated list, please cite it using the metadata below."
+title: "Awesome Space Autonomy"
+type: dataset
+authors:
+  - family-names: "Kaczmarek"
+    given-names: "Sylvester"
+repository-code: "https://github.com/sylvesterkaczmarek/awesome-space-autonomy"
+url: "https://github.com/sylvesterkaczmarek/awesome-space-autonomy"
+license: "CC0-1.0"
+keywords:
+  - space autonomy
+  - spacecraft autonomy
+  - autonomous spacecraft
+  - onboard autonomy
+  - autonomous navigation
+  - space robotics
+  - onboard AI
+  - spacecraft swarms
+abstract: "A curated collection of research, flight demonstrations, software, tools, benchmarks, and engineering guidance for autonomous space systems."
