@@ -171,8 +171,6 @@ If you use or adapt this curated list, please cite:
 
 > Kaczmarek, S. (2026). *Awesome Space Autonomy*. GitHub. https://github.com/sylvesterkaczmarek/awesome-space-autonomy
 
-**BibTeX**
-
 ```bibtex
 @misc{Kaczmarek_2026_Awesome_Space_Autonomy,
   author = {Sylvester Kaczmarek},
