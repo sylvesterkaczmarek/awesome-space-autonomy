@@ -98,7 +98,7 @@ Maintained by [Sylvester Kaczmarek](https://github.com/sylvesterkaczmarek).
 - [SYNOPSIS autonomy technology](https://ml.jpl.nasa.gov/autonomies/synopsis.html) - JPL overview of onboard summarization, product generation, and prioritization for bandwidth-constrained missions.
 - [Φsat-2 science phase](https://www.esa.int/Applications/Observing_the_Earth/Phsat-2/Phsat-2_begins_science_phase_for_AI_Earth_images) - Operational example of onboard AI applications processing Earth-observation imagery before downlink.
 - [JPL Machine Learning and Instrument Autonomy products](https://ml.jpl.nasa.gov/products.html) - Collection of reusable JPL onboard machine-learning and instrument-autonomy capabilities.
-- [AEGIS on Mars](https://www.jpl.nasa.gov/news/nasas-mars-rover-curiosity-completes-first-autonomous-laser-targeting) - Flight example of onboard AI autonomously selecting scientific targets for Curiosity's ChemCam.
+- [AEGIS on Mars](https://www.jpl.nasa.gov/news/nasa-mars-rover-can-choose-laser-targets-on-its-own/) - Flight example of onboard AI autonomously selecting scientific targets for Curiosity's ChemCam.
 
 ## Distributed autonomy, swarms, and formation flying
 
